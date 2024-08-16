@@ -1,0 +1,12 @@
+/* src/AddCourse.css */
+.add-course-form {
+    max-width: 600px; /* Limit the form width */
+    margin: 0 auto;   /* Center the form horizontally */
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;      /* Make the inputs and textareas fill the form's width */
+    box-sizing: border-box; /* Include padding and border in the width calculation */
+  }
+  

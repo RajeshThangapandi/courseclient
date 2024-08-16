@@ -1,0 +1,23 @@
+/* src/InstanceTable.css */
+
+.filter-form {
+    display: flex;
+    justify-content:space-between;
+    align-items: flex-start;
+  }
+  
+  .form-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .form-group {
+    margin: 0 10px;
+  }
+  
+  .form-control {
+    width: 200px; /* Adjust width as needed for larger dropdowns */
+    font-size: 1rem; /* Adjust font size for better readability */
+  }
